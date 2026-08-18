@@ -28,7 +28,7 @@ public class Main {
         System.out.println("PROGRAM FINISHED");
        break menuloop; 
       }
-      default -> System.out.println("Invalid Choice");    
+      default -> System.out.println("Invalid Choice eg..1,2");    
       }
    }
    }
